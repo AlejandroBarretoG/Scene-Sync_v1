@@ -1,0 +1,5 @@
+{
+  "name": "Scene-Sync Subtitles",
+  "description": "An application to upload a video and a subtitle file. It automatically detects scene changes in the video and adapts the subtitle timings to perfectly align with each scene, ensuring a seamless viewing experience.",
+  "requestFramePermissions": []
+}
